@@ -44,6 +44,9 @@ uvloop = "*"
 # requests = "*"
 # pandasql = "*"
 # python3-graph-tool = "*"
+dash = "*"
+streamlit = "*"
+dtale = "*"
 
 [requires]
 python_version = "3.7"
